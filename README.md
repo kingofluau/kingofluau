@@ -4,8 +4,8 @@ I make a lot of random things.
 
 projects
 
-- 67fuscator —
-- KittyHack — 
+- 67fuscator 
+- KittyHack 
 
 if your interested in ether of the projects or commissioning me please contact me on discord.
 
