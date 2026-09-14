@@ -2,7 +2,7 @@
 
 I make a lot of random things.
 
-projects
+current projects
 
 - 67fuscator 
 - KittyHack 
