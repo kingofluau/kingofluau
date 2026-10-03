@@ -1,6 +1,6 @@
 hello, i'm kitty
 
-I make a lot of random things.
+I make a lot of random things, my old github was recently terminated.
 
 current projects
 
