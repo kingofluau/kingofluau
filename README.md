@@ -4,7 +4,6 @@ I make a lot of random things.
 
 current projects
 
-- 67fuscator
 - KittyHack
 
 If you're interested in either of the projects or commissioning me, please contact me on Discord.
