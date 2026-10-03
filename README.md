@@ -6,9 +6,7 @@ current projects
 
 - KittyHack
 
-If you're interested in either of the projects or commissioning me, please contact me on Discord.
-
-languages
+languages:
 
 lua/luau, py, js, and some C#
 
